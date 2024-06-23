@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GitHubDesktop</id>
+    <version>3.4.1</version>
+    <title>GitHub Desktop</title>
+    <authors>GitHub, Inc.</authors>
+    <owners>GitHub, Inc.</owners>
+    <iconUrl>https://desktop.githubusercontent.com/github-desktop/app-icon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple collaboration from your desktop</description>
+    <copyright>Copyright © 2024 GitHub, Inc.</copyright>
+  </metadata>
+</package>
